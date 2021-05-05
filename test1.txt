@@ -2,7 +2,7 @@ pratik tiwari is here
 new line
 
 def gui():
-	print newline
+	print newline and new sent
 
 def cmd():
 	print newline and new sent
