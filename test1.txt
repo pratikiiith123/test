@@ -1,2 +1,6 @@
 pratik tiwari is here
+<<<<<<< HEAD
 tiwari git gui, gui++
+=======
+tiwari git gui, cmd and this is	
+>>>>>>> 840d5f94be490b8797e702a2cf1297eab94deafe
