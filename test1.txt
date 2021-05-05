@@ -6,3 +6,6 @@ def gui():
 
 def cmd():
 	print newline
+
+def newbranch():
+	print newbranch
