@@ -1,2 +1,8 @@
 pratik tiwari is here
 new line
+
+def gui():
+	print newline
+
+def cmd():
+	print newline
