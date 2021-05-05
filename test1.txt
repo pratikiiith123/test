@@ -1,3 +1,7 @@
 pratik tiwari is here
 new line
+<<<<<<< HEAD
 this is new line from cmd
+=======
+this is new line from gui
+>>>>>>> c2ca0cdcdd3e06059813cad418b19f21f5b718f2
